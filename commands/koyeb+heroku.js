@@ -1,13 +1,15 @@
 /**
- Copyright (C) 2022.
+ Copyright (C) 2024.
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : Secktor-Md
- * @author : @samapndey001 <https://github.com/SamPandey001>
- * @description : Secktor,A Multi-functional whatsapp bot.
+ * @project_name : VISHWA-MD
+ * @author : VishwaMihiranga <https://github.com/vishwamihiranga>
+ * @description : Vishwa-MD,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
+//---------------------------------------------------------------------------
+
 const axios = require('axios');
 const { tlang,cmd } = require('../lib')
 const Config = require('../config')
@@ -130,7 +132,7 @@ cmd(
   },
   async (Void,citel,text,{isCreator}) => {
        if(!isCreator) return citel.reply(tlang().owner);
-       if(!text.split(':')[1]) return citel.reply('*Wrong Format.*\nPlease provide key and value.\n_Eg: .setvar THEME:SECKTOR_')
+       if(!text.split(':')[1]) return citel.reply('*Wrong Format.*\nPlease provide key and value.\n_Eg: .setvar THEME:VISHWA-MD_')
        if (Config.heroku=true){
         const Heroku = require("heroku-client");
         const heroku = new Heroku({
