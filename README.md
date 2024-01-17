@@ -1,96 +1,202 @@
-  <p align="center">  
-  <a href="https://secktoruserbot.onrender.com/">
-    <img alt="secktor docs" height="300" src="https://secktoruserbot.onrender.com/main.jpg">
-    <h1 align="center">Secktor MD Whatsapp bot</h1>
-  </a>
-</p>
-   
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its XLICON-MD;Multi+Device+Whatsapp+Bot;Developed+By+SALMAN AHMAD" alt="Typing SVG" /></a>
+<div align="center"><h1>🍃 VISHWA-𝐌𝐃 🍃 </h1><a href="https://github.com/vishwamihi/VISHWA-BOT-MD"><img src="https://i.ibb.co/G5hhDkY/397495273-213856521727106-7536776473318994727-n.jpg" width="650" height="450"></a></div>
+
 <p align="center">
-
-  <a aria-label="Join our chats" href="https://www.youtube.com/@YourPenPal" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
- 
-  <a aria-label="Secktor is free to use" href="https://github.com/SamPandey001/Secktor-Md/blob/main/LICENCE" target="_blank">
-    <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
-  </a>
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=VISHWA+MD+WHATSAPP+BOT" alt="">
 </p>
 
- 
+***
+
+<a href="https://github.com/vishwamihi/VISHWA-MD"><img title="Followers" src="https://img.shields.io/github/followers/Vishwa?e=flat-square">
+<a href="https://github.com/vishwamihi/VISHWA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/vishwamihi/VISHWA-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/vishwamihi/VISHWA-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/vishwamihi/VISHWA-MD?color=red&style=flat-square"></a>
+<a href="https://github.com/vishwamihi/VISHWA-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/vishwamihi/VISHWA-MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/vishwamihi/VISHWA-MD"><img title="Size" src="https://img.shields.io/github/repo-size/vishwamihi/VISHWA-MD?style=flat-square&color=green"></a>
+---
+<a align="center"><img src="https://profile-counter.glitch.me/VISHWA-MD/count.svg" /></a>
+
+<a href="https://m.facebook.com/100049977400815/"><img alt="FaceBook" src="https://img.shields.io/badge/-FaceBook%20-lightgrey?style=for-the-badge&logo=facebook&logoColor=blue"/></a>
+<a href="https://www.youtube.com/channel/UCVwddJDhIDa4FaWM717xaAQ"><img alt="YouTube" src="https://img.shields.io/badge/-YouTube%20-lightgrey?style=for-the-badge&logo=YouTube&logoColor=red"/></a>
+<a href="https://chat.whatsapp.com/IZpUGOxDi9vEogXXyY9Mpi"><img alt="Whatsapp" src="https://img.shields.io/badge/-Whatsapp%20-lightgrey?style=for-the-badge&logo=Whatsapp&logoColor=Green"/></a>
+
+<h2 align="center"> Star the repo if u like it🌟
+</h2>
+
+## `Notice`
+
+Dont't Forget To ***SYNC FORK*** The Respository Before ***Deploy*** 
+
 ---
 
-<p align="center"><img src="https://profile-counter.glitch.me/{SamPandey001}/count.svg" alt="SamPandey001 :: Visitor's Count" /></p>
+    
+## `Installation` 📲
 
-  <p align="center"> Introducing Secktor,Secktor is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
- 
- ***<p align="center"> Support us by subscribing our channel </p>***
- 
-   <p align="center">  
-  <a href="https://www.youtube.com/watch?v=k-DOQiLNuig">
-    <img alt="secktor docs" height="300" src="https://t3.ftcdn.net/jpg/03/00/38/90/360_F_300389025_b5hgHpjDprTySl8loTqJRMipySb1rO0I.jpg">
-    <h1 align="center">Tap on above Image</h1>
-  </a>
-</p>
- 
- 
-- Install [External Plugins](https://github.com/SamPandey001/Secktor-Plugins)
-## Deployment Methods
----
-1. ***Get [SESSION-ID](https://secktorub-b34f1c3c60d3.herokuapp.com/id) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
-2.  ***Get a Mongodb uri from [Mongodb](https://github.com/SamPandey001/Secktor-Md/wiki/Mongodb-URI) | [Tutorial](https://www.youtube.com/watch?v=WWrpBCBlyuo).***
+1. Fork the repo
+    <br>
+<a href="https://github.com/vishwamihi/VISHWA-MD/fork"><img title="VISHWA-MD -1.0" src="https://img.shields.io/badge/FORK_VISHWA-MD_-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
+
+2. Scan the QR and upload the `Session` to ***VISHWA-MD-SECTION*** 
+    <br>
+<a href='https://replit.com/@SithumKalhara/SITHUWA-MD#Console' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+
+3. Scan Qr
+    <br>
+<a href='https://replit.com/@SithumKalhara/SITHUWA-MD#Console' target="_blank"><img alt='SCAN QR-2' src='https://img.shields.io/badge/Scan_qr-2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
 
-***Free Mongodb URI,LOL***
-```
-mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority
-```
-3.  ***Click [FORK](https://github.com/SamPandey001/Secktor-MD/fork)***
-## Heroku Deployment Method
-4.  ***Deploy on [Heroku](https://secktorub-b34f1c3c60d3.herokuapp.com//heroku)***
-## Koyeb Deployment Method
-5. ***[Deploy on Koyeb](https://secktorub-b34f1c3c60d3.herokuapp.com/koyeb) and get API KEY from [here.](https://app.koyeb.com/settings/api)*** .
+## `Features`
 
-6. ***Also Deploy on [Replit]( https://repl.it/github/SamPandey001/Secktor-Md)***
-
-If ***RUN*** Doesn't work, paste these commands in repl shell
-
-```
-yarn
-npm i pm2 -g && pm2 start lib/client.js
-```
-Copy the JSON down and paste in repl then fill the vars
-
-```
-{
-  "SESSION_ID": "ID-Here",
-  "OWNER_NUMBER": "91xxxxxxxxxx",
-  "OWNER_NAME": "EREN JEAGER",
-  "OPENAI_API_KEY": "null",
-  "MONGODB_URI": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority",
-  "PACK_INFO": "Sam;Pandey",
-  "PREFIX": "."
-   
-}
-```
-
-7.  ***[Deploy on Railway](https://secktorub-b34f1c3c60d3.herokuapp.com/railway)***
-
-8. ***[Deploy on MOGENIOUS](https://github.com/SamPandey001/Secktor-Md/wiki/Deploy-on-MOGENIOUS)***
+- 275+ Awesome Commands
+- 24/7 Support
+- Simple Commands
+- Easy Deploy
+- Anime Themes
+- Best for GroupWorks
+- Make your boring whatsapp fun
   
-9. ***Deploy in [Linux](https://github.com/SamPandey001/Secktor-Deploy#deploy-in-any-shell-including-termux)***
+```bash
+⚠️ if there any error please infrom it support group. | මෙහිදී යම් ගැටලුවක් ඇති උවහොත් සහය සමූහය වෙත සම්බන්ධ වන්න. | ඔබගේ අත්වැරදීම් නිසා සිදුවන ගැටලු වලට අපගේ වගකීම් ලාබා දෙනු නොලැබේ.
+```
 
-10. if you get error in doing above try, [Deploy on VPS or PC.](https://github.com/SamPandey001/Secktor-Md/blob/main/deploy-on-vps.md)
----
-11. More info about [Secktor](https://secktorub-b34f1c3c60d3.herokuapp.com/).
-12. Deploy tutorial [Youtube Video](https://secktorub-b34f1c3c60d3.herokuapp.com/youtube).
+## Click the button below to deploy. | Deploy කිරීමට පහත බටන් එක ක්ලික් කරන්න.
+ 
+ <details close>
+<summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗖𝗛𝗢𝗜𝗦𝗘 𝗬𝗢𝗨𝗥 𝗙𝗔𝗩𝗢𝗨𝗥𝗜𝗧𝗘 𝗣𝗟𝗔𝗧𝗙𝗥𝗢𝗠 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬</summary>
+ 
+<br><br>   
+   
+<h4 align="center"> Deploy on Repl.it
+</h4>
 
-13. SUPPORT GROUP: <a href="https://chat.whatsapp.com/DG86OkvmerHKHJjkE5X2Wv"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
+<p align="center" >
+    <a href="https://repl.it/github/vishwamihi/VISHWA-MD">
+    <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Repl.it" >
+    </a>
+</p>
 
-- Star ⭐ repo if you like Secktor.
-### Thanks To
+<p align="center" >
+<a href="https://youtu.be/6q7f1RmKaVw?si=aHENSzI1TVcDmlwp">
+    <img src="https://telegra.ph/file/ae251b53658a5505965ad.png" width="170px" alt="Deploy on Repl.it" >
+    </a>
+</p>
 
-- [Yusuf Usta](https://github.com/yusufusta) for Ideas
+<p align="center" >
+    <br>
+    __________________________
+    <br>
+</p>
 
-## License
 
-The Secktor is made available under the [GPL-3 license](https://github.com/SamPandey001/Secktor-Md/blob/main/LICENCE). 
+<br>
+ 
+<h4 align="center"> Deploy on Heroku
+</h4>
+
+</p>
+
+<p align="center" >
+    <a href="https://heroku.com/deploy?template=https://github.com/vishwamihi/VISHWA-MD">
+    <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
+    </a>
+
+</p>
+
+<p align="center" >
+<a href="https://github.com/vishwamihi/VISHWA-MD">
+    <img src="https://telegra.ph/file/ae251b53658a5505965ad.png" width="170px" alt="Deploy on Repl.it" >
+    </a>
+</p>
+
+<p align="center" >
+    <br>
+  __________________________
+    <br>
+</p>
+
+<br>
+      
+<h4 align="center"> Deploy on Koyeb
+</h4>
+      
+<p align="center">
+    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/vishwamihi/VISHWA-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=94759333625&env[MONGODB_URI]&&env[OWNER_NAME]=SITHUM&env[KOYEB_API]&env[PREFIX]=.&env[ALIVE_IMG]=https://telegra.ph/file/f9e51e5d61e439020720a.jpg&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=sithuwa-md&env[PACK_INFO]=SITHUWA-MD;BY-SITHUM-KALHARA&name=SITHUWA-MD&env[KOYEB_NAME]=SITHUWA-MD&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)">
+    <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="155px">
+    </a>
+   
+</p>
+
+
+<p align="center" >
+    <br>
+    __________________________
+    <br>
+<h4 align="center"> Deploy on Mogenius
+</h4>
+  
+<p align="center">
+    <a href="https://studio.mogenius.com/">
+    <img src="https://www.cloudflare.com/static/90073b1e5bd8a0765640a20febb3dc22/mogenius_logo_quer.png" alt="Deploy on Mogenius" width="170px">
+    </a>
+  
+<p align="center" >
+    <br>
+    __________________________
+    <br>
+</p>
+
+<br>
+
+<h4 align="center"> Deploy on Uffizzi
+</h4>
+  
+<p align="center">
+    <a href="https://www.uffizzi.com/">
+    <img src="https://i.ibb.co/Y29Kv4X/Screenshot-195.png" alt="Deploy on Uffizzi" width="125px">
+    </a>
+    
+</p>
+
+<br>
+
+<h4 align="center"> Deploy on BoxMineWorld
+</h4>
+  
+<p align="center">
+    <a href="https://dash.boxmineworld.com/">
+    <img src="https://graph.org/file/2af0e67f320986702ea24.jpg" alt="Deploy on Boxmineworld" width="175px">
+    </a>
+    <br>
+
+</p>
+
+<p align="center" >
+    <br>
+    __________________________
+    <br>
+</p>
+
+
+
+</details>
+
+<br>
+<h2 align="center">  Reminder
+</h2>
+   
+- This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
+- I am not responsible for banning your account.
+- Use at your own risk by keeping this warning in mind.
+
+# Developers
+
+<h2 align="center">VISHWA-MD
+</h2>
+
+  <p align="center">
+    
+| <a href="https://www.facebook.com/sithum.kalhara.7315?mibextid=ZbWKwL"><img src="https://i.ibb.co/G5hhDkY/397495273-213856521727106-7536776473318994727-n.jpg" width=100 height=100></a> |
+|---|
+| **[Vishwa Mihiranga](https://github.com/vishwamihiranga)**</br>Founder & Developer</br>*[Vishwa Mihiranga]* |
+  </p>
+
