@@ -1,18 +1,19 @@
 /**
- Copyright (C) 2022.
+ Copyright (C) 2024.
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : Secktor-Md
- * @author : SamPandey001 <https://github.com/SamPandey001>
- * @description : Secktor,A Multi-functional whatsapp bot.
+ * @project_name : VISHWA-MD
+ * @author : VishwaMihiranga <https://github.com/vishwamihiranga>
+ * @description : Vishwa-MD,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
+//---------------------------------------------------------------------------
 
 const { tlang, ringtone, cmd,fetchJson, sleep, botpic,ffmpeg, getBuffer, pinterest, prefix, Config } = require('../lib')
 const { mediafire } = require("../lib/mediafire.js");
 const googleTTS = require("google-tts-api");
-const ytdl = require('ytdl-secktor')
+const ytdl = require('ytdl-VISHWA')
 const fs = require('fs-extra')
 var videotime = 60000 // 1000 min
 var dlsize = 1000 // 1000mb
@@ -36,7 +37,7 @@ cmd({
             desc: "text to speech.",
             category: "downloader",
             filename: __filename,
-            use: '<Hii,this is Secktor>',
+            use: '<Hii,this is VISHWAMD>',
         },
         async(Void, citel, text) => {
             if (!text) return citel.reply('Please give me Sentence to change into audio.')
@@ -67,7 +68,7 @@ cmd({
         use: '<yt search text>',
     },
     async(Void, citel, text) => {
-        let yts = require("secktor-pack");
+        let yts = require("VISHWA-MD");
         if (!text) return citel.reply(`Example : ${prefix}yts ${tlang().title} WhatsApp Bot`);
         let search = await yts(text);
         let textt = "*YouTube Search*\n\n Result From " + text + "\n\n───────────────────\n";
@@ -100,7 +101,7 @@ cmd({
             use: '<faded-Alan Walker>',
         },
         async(Void, citel, text) => {
-            let yts = require("secktor-pack");
+            let yts = require("VISHWA-MD");
             let search = await yts(text);
             let anu = search.videos[0];
             let urlYt = anu.url
@@ -291,7 +292,7 @@ cmd({
             use: '<text>',
         },
         async(Void, citel, text) => {
-            let yts = require("secktor-pack");
+            let yts = require("VISHWA-MD");
             let search = await yts(text);
             let anu = search.videos[0];
             const getRandom = (ext) => {
