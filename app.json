@@ -1,14 +1,14 @@
 {
   "name": "VISHWA-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://camo.githubusercontent.com/14279dac3151a95fca8ec5bebda435d68d62c49f6aa4f30749f541ee985ad21b/68747470733a2f2f7365636b746f7275736572626f742e6f6e72656e6465722e636f6d2f6d61696e2e6a7067",
+  "logo": "https://i.ibb.co/G5hhDkY/397495273-213856521727106-7536776473318994727-n.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "VISHWA-MD", "Vishwa","VishwaMD","theme bot","multi device","baileys","Vishwa Mihiranga"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Eren Yeager"
+      "value": "VISHWA MIHIRANGA"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
