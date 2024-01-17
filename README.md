@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its VISHWA-MD;Multi+Device+Whatsapp+Bot;Developed+By+VISHWA MIHIRANGA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its VISHWA-MD;Multi+Device+Whatsapp+Bot;Developed+By+VISHWA22" alt="Typing SVG" /></a>
 <div align="center"><h1>🍃 VISHWA-𝐌𝐃 🍃 </h1><a href="https://github.com/vishwamihi/VISHWA-BOT-MD"><img src="https://i.ibb.co/G5hhDkY/397495273-213856521727106-7536776473318994727-n.jpg" width="650" height="450"></a></div>
 
 <p align="center">
